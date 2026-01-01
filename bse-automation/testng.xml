@@ -1,0 +1,8 @@
+
+<suite name="MarketWatch Suite" verbose="1">
+    <test name="MarketWatch Tests">
+        <classes>
+            <class name="tests.MarketWatchTests"/>
+        </classes>
+    </test>
+</suite>
