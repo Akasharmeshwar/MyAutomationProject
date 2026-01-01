@@ -37,18 +37,20 @@ MyAutomationProject/
 
    mvn test
 
-
-
-
-   ----
+----
 Author
 Akash Parmeshwar  
 Automation Test Engineer | 3.4+ years experience
 Specialized in retail and banking automation and consulting QA frameworks.
 
+---
+
+This project is licensed under the MIT License.
+
 
 
    
 
 
    
+
