@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="regression.ComposeRegressionTests" />
+			<class name="regression.InboxRegressionTests" />
+			<class name="regression.SystemRegressionTests" />
+			<class name="functional.SettingsFunctionalTests" />
+			<class name="functional.SearchFunctionalTests" />
+			<class name="sanity.SanitySuite" />
+			<class name="functional.LoginFunctionalTests" />
+			<class name="functional.ComposeFunctionalTests" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
